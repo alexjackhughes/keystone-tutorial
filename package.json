@@ -1,0 +1,12 @@
+{
+  "name": "tutorial",
+  "version": "1.0.0",
+  "description": "Tutorial to learn the API",
+  "main": "index.js",
+  "author": "alexjackhughes",
+  "license": "MIT",
+  "dependencies": {
+    "@keystonejs/adapter-mongoose": "^8.1.0",
+    "@keystonejs/keystone": "^9.0.0"
+  }
+}
