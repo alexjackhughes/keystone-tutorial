@@ -5,8 +5,13 @@
   "main": "index.js",
   "author": "alexjackhughes",
   "license": "MIT",
+  "scripts": {
+    "dev": "keystone"
+  },
   "dependencies": {
     "@keystonejs/adapter-mongoose": "^8.1.0",
+    "@keystonejs/app-graphql": "^5.1.7",
+    "@keystonejs/fields": "^10.0.0",
     "@keystonejs/keystone": "^9.0.0"
   }
 }
